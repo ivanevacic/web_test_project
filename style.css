@@ -4,7 +4,7 @@ body {
 /* ------ Zaglavlje / početak ------ */
 .zaglavlje {
 	height: 400px;
-	background: url('slike/zaglavlje.jpg') no-repeat;
+	background: url('new_slike/berries-919006__340.jpg') no-repeat;
 	background-size: cover;
 }
 .zaglavlje a {
@@ -53,7 +53,7 @@ body {
 /* ------ Navigacija / početak ------ */
 .navigacija {
 	height: 70px;
-	background-color: #F1C40F;
+	background-color: rgb(241, 15, 203);
 }
 .navigacija li {
 	display: inline;
@@ -164,7 +164,7 @@ body {
 
 /* ------ Kontakt / početak ------ */
 .kontakt {
-	background-color: black;
+	background-color: rgb(189, 21, 161);
 	padding: 50px 30px;
 	margin-top: 60px;
 }
